@@ -1,8 +1,8 @@
 ## Hi there! I'm Lacho 👋
 
 
-[![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/LachezarIvanov)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lachezar-ivanov-026917284/) 
+[![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/Lachezar-Ivanov)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lachezar-ivanov) 
 [![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/dev-lsi)
 
 ```javascript
