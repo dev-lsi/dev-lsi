@@ -6,12 +6,11 @@
 [![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/dev-lsi)
 
 ```javascript
-const kalin: Developer = {
-    pronouns: "He" | "Him",
-    code: ["CSharp", "Javascript", "Typescript"],
+const Lacho: Developer = {
+    programingLanguages: ["CSharp", "Javascript", "Typescript"],
     technologies: {
         backEnd: [".NET Core", "ASP.NET Core", "EF Core"],
-        frontEnd: ["React", "Blazor"],
+        frontEnd: ["HTML","CSS","React"],
         devOps: ["Azure", "Docker 🐳"],
         databases: ["MSSQL", "SQLite", "PostgreSQL"]
     },
