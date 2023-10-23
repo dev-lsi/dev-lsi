@@ -7,14 +7,13 @@
 
 ```javascript
 const Lacho: Developer = {
-    programingLanguages: ["CSharp", "Javascript", "Typescript"],
+    programingLanguages: ["CSharp", "Javascript"],
     technologies: {
         backEnd: [".NET Core", "ASP.NET Core", "EF Core"],
         frontEnd: ["HTML","CSS","React"],
         devOps: ["Azure", "Docker 🐳"],
-        databases: ["MSSQL", "SQLite", "PostgreSQL"]
+        databases: ["MSSQL"]
     },
-    architecture: ["Clean architecture", "N-Layer Architecture", "Serverless Architecture", "Microservices"],
     education: ["Software University of Sofia"],
     hobbies: ["Skiing", "Swimming", "Climbing"],
     goal: "Contributing to Open Source projects"
