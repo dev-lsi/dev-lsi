@@ -9,13 +9,13 @@
 const Lacho: Developer = {
     programingLanguages: ["CSharp", "Javascript"],
     technologies: {
-        backEnd: [".NET Core", "ASP.NET Core", "EF Core"],
-        frontEnd: ["HTML","CSS","React"],
+        backEnd: ["C#",.NET Core", "ASP.NET Core", "EF Core"],
+        frontEnd: ["HTML","CSS","JavaScript",React"],
         devOps: ["Azure", "Docker 🐳"],
         databases: ["MSSQL"]
     },
-    education: ["Software University of Sofia"],
-    hobbies: ["Skiing", "Swimming", "Climbing"],
+    education: ["SoftUni Sofia Bulgaria"],
+    hobbies: ["Skiing", "Swimming"],
     goal: "Contributing to Open Source projects"
 };
 ```
